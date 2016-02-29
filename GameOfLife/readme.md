@@ -1,3 +1,5 @@
+I found [Game Of Life Kata](http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife) on coding dojo.
+
 Your task is to write a program to calculate the next
 generation of Conway's game of life, given any starting
 position. You start with a two dimensional grid of cells, 
