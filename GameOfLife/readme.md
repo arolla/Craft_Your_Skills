@@ -1,4 +1,4 @@
-I found [Game Of Life Kata](http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife) on coding dojo.
+﻿I found [Game Of Life Kata](http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife) on coding dojo.
 
 Your task is to write a program to calculate the next
 generation of Conway's game of life, given any starting
@@ -19,15 +19,15 @@ next generation of the grid, follow these four rules:
 Examples: * indicates live cell, . indicates dead cell
 
 Example input: (4 x 8 grid)
-4 8
-........
-....X...
-...XX...
-........
+4 8<br/>
+........<br/>
+....X...<br/>
+...XX...<br/>
+........<br/>
 
 Example output:
-4 8
-........
-...XX...
-...XX...
-........
+4 8<br/>
+........<br/>
+...XX...<br/>
+...XX...<br/>
+........<br/>
