@@ -11,7 +11,7 @@ It will take a number (positive integer) and provide :
 
 If number have several multiples, they appear in natural order (Foo, Bar, Qix).
 
-We will return the given number as a string if there is no transformation **at all** to do.
+We will return the given number as a string if there is no transformation **at all** (not in the old rules, nor in the new rules) to do.
 
 The new rules are :
 If the given number contains specific digit, we will apppend a word to the transformation in the order they appear in the number.
