@@ -12,6 +12,6 @@ It will take a number (positive integer) and provide :
 
 If number have several multiples, they appear in natural order (Foo, Bar).
 
-We will return the given number as a string if there is no transfomration to do.
+We will return the given number as a string if there is no transformation to do.
 
 Once this step is complete, on can read and do ["Week 2"](./readme_then.md).
